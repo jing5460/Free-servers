@@ -32,10 +32,29 @@
  <blockquote>
  <p style="text-align: center;">Ăn -> ngủ -> nút kiểm tra. </p>
  </blockquote>
- <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
+ <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-
+# 834. 🏁ZZ_188 (延迟: 402 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#Taiwan
+# 566. 🇻🇳VN-103.186.154.61-4858 (延迟: 302 ms)
+vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDQzMDYzLCAicHMiOiAiTWFsYXlzaWEiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+# 1115. 🇮🇩کانال کانفیگ ها: @customv2ray (延迟: 701 ms)
+# 1601. 🇩🇪[www.v2cross.com] V2Ray Vless-DE-14487 (延迟: 1323 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.50.110:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Iran
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.23:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#The+Netherlands
+# 801. 🇻🇳VN-103.186.155.37-4803 (延迟: 390 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Japan
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@172.67.134.82:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#United+States
+# 436. >>@oneclickvpnkeys::US (延迟: 221 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#The+Netherlands
+# 694. 🇻🇳VN-103.186.155.69-4819 (延迟: 348 ms)
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#Germany
+# 257. B - 🇺🇸 US 03 TG: @nodpai (延迟: 126 ms)
+# 110. >>@oneclickvpnkeys::US (延迟: 91 ms)
+# 1913. 🇦🇹[www.v2cross.com] Outline VPN-AT-13206127 (延迟: 6104 ms)
+# 1453. >>@oneclickvpnkeys::DE (延迟: 1201 ms)
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#Taiwan
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

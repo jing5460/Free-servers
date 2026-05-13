@@ -32,10 +32,29 @@
 <blockquote>
 <p style="text-align: center;">Eat->Sleep->Test nodes.</p>
 </blockquote>
-<h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
+<h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.225:38388#Vietnam
+# 674. >>@oneclickvpnkeys::US (延迟: 343 ms)
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.152.23:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#United+States
+# 608. 🇻🇳VN-103.186.155.77-4869 (延迟: 323 ms)
+# 1652. >>@oneclickvpnkeys::DE (延迟: 1359 ms)
+# 1151. >>@configshub2::NL (延迟: 745 ms)
+# 971. 🇲🇾[www.v2cross.com] V2Ray Vless-MY-8018762 (延迟: 497 ms)
+# 1346. 🇳🇱[www.v2cross.com] V2Ray Vless-NL-1610348 (延迟: 999 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.228:38388#Vietnam
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#The+Netherlands
+# 1646. >>@oneclickvpnkeys::DE (延迟: 1357 ms)
+# 1516. 🇫🇷[www.v2cross.com] V2Ray Vless-FR-15077 (延迟: 1258 ms)
+# 368. >>@oneclickvpnkeys::US (延迟: 174 ms)
+# 1336. 未知22 (延迟: 994 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@205.233.181.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
+# 1477. 🇩🇪DE_6 | 1.3MB/s (延迟: 1228 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.77.169:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#France
+# 1915. >>@oneclickvpnkeys::GB (延迟: 7191 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.47:38388#Vietnam
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

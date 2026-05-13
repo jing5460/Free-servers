@@ -32,10 +32,29 @@
  <blockquote>
  <p style="text-align: center;">खाएं -> सोएं -> परीक्षण नोड्स। </p>
  </blockquote>
- <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
+ <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.80:38388#Vietnam
+# 435. >>@oneclickvpnkeys::US (延迟: 221 ms)
+# 890. 🇻🇳VN-103.186.155.28-4954 (延迟: 434 ms)
+# 730. 🇻🇳VN-103.186.154.233-4973 (延迟: 360 ms)
+# 994. 🏁ZZ_170 (延迟: 520 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.64.142.210:8443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#Hong+Kong
+vmess://eyJhZGQiOiAiNDUuOTIuNzAuMjM2IiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogMjIzMjQsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+# 213. >>@oneclickvpnkeys::US (延迟: 113 ms)
+vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&encryption=none#
+vmess://eyJhZGQiOiAidXMwMi5iY3R1by50b3AiLCAiYWlkIjogMCwgImlkIjogIjMxODAxOTY4LTk4NzctNGVmNS1iZTg3LTU2NTAzYzM0YTY5ZCIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAxNDQzLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.175.192.201:443?allowInsecure=0&sni=gogo.wknm.dpdns.org&type=ws&host=gogo.wknm.dpdns.org&path=/fp=chrome&security=tls#United+States
+# 67. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-7456 (延迟: 81 ms)
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#Japan
+# 390. >>@oneclickvpnkeys::US (延迟: 187 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#Romania
+# 753. 🇻🇳VN-103.186.154.217-5199 (延迟: 368 ms)
+# 1688. >>@oneclickvpnkeys::NL (延迟: 1398 ms)
+# 1572. >>@configshub2::FR (延迟: 1292 ms)
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=/proxyip=ProxyIP.DE.owg.dpdns.org#Japan
+# 1265. 🇺🇸 US_126 (延迟: 872 ms)
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

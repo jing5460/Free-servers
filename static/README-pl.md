@@ -32,10 +32,29 @@
  <blockquote>
  <p style="text-align: center;">Jedz -> śpij -> testuj węzły. </p>
  </blockquote>
- <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
+ <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?flow=xtls-rprx-vision&security=reality&encryption=none&sni=aws.amazon.com&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&type=tcp&headerType=none&path=%2f#United+States
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.248:38388#Vietnam
+# 325. >>@oneclickvpnkeys::US (延迟: 148 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#The+Netherlands
+# 1082. 🇺🇸US_130 (延迟: 642 ms)
+# 1827. >>@oneclickvpnkeys::DE (延迟: 1775 ms)
+# 1239. 🇳🇱[www.v2cross.com] Outline VPN-NL-7228336 (延迟: 827 ms)
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&type=tcp&sni=cdn.cdnjst.org&fp=chrome&flow=xtls-rprx-vision&sid=a120&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&encryption=none#United+States
+# 1695. 🇵🇱[www.v2cross.com] V2Ray Vless-PL-13505268 (延迟: 1402 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.144:38388#Vietnam
+# 462. >>@oneclickvpnkeys::US (延迟: 240 ms)
+# 974. 🇻🇳VN-103.186.154.222-5209 (延迟: 498 ms)
+# 504. >>@v2nodes::TW (延迟: 276 ms)
+# 1096. >>@OutlineVpnOfficial::TW (延迟: 675 ms)
+# 1053. 🇺🇸 美国 CCZZUU.TOP (延迟: 589 ms)
+# 1080. >>@oneclickvpnkeys::US (延迟: 634 ms)
+# 1772. 🇳🇱[www.v2cross.com] vless-NL (延迟: 1516 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#Russia
+# 1510. 🇳🇱[www.v2cross.com] V2Ray Vless-NL-1131198 (延迟: 1256 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#United+Kingdom
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

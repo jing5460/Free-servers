@@ -32,14 +32,29 @@
  <blockquote>
  <p style="text-align: center;">Comer -> dormir -> testar nós. </p>
  </blockquote>
- <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
+ <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%C3%81frica+do+Sul
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#Holanda
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#EUA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#Reino+Unido
-vmess://eyJ2IjogIjIiLCAicHMiOiAiUG9ydHVnYWwiLCAiYWRkIjogIjQ1LjEyLjEzMi4xODMiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI3MDNmNzIyYS00YmRmLTRlOWQtOWFmZC1hNjgxZmRmODdjNzQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjQ1LjEyLjEzMi4xODMiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+# 115. >>@oneclickvpnkeys::US (延迟: 93 ms)
+# 1032. 🇻🇳VN-103.186.154.15-5182 (延迟: 559 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.55:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#Fran%C3%A7a
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.0:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#Fran%C3%A7a
+# 1112. 🏳[www.v2cross.com] vless- (延迟: 696 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#Rom%C3%AAnia
+# 375. >>@v2ray_configs_pool::US (延迟: 178 ms)
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@85.121.48.77:443?encryption=none&fp=chrome&host=3-7gj.pages.dev&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=3-7gj.pages.dev&type=ws#Rom%C3%AAnia
+# 1370. 🇯🇵[www.v2cross.com] V2Ray Vless-JP-12510381 (延迟: 1033 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.63:38388#Vietn%C3%A3
+# 1538. >>@oneclickvpnkeys::NL (延迟: 1270 ms)
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@158.51.110.12:443?sni=pagescm.freen5.cc.cd&type=ws&host=pagescm.freen5.cc.cd&path=/showfp=chrome&security=tls#EUA
+# 450. >>@oneclickvpnkeys::US (延迟: 232 ms)
+# 1570. B - 🇺🇸 US 47 TG: @nodpai (延迟: 1291 ms)
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989#R%C3%BAssia
+# 1090. B - 🇸🇬 SG 14 TG: @nodpai (延迟: 667 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.253.60:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#Ar%C3%A1bia+Saudita
+# 1785. >>@oneclickvpnkeys::GB (延迟: 1551 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.154.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#EUA
+vmess://eyJhZGQiOiAianAwMS5hMGEueHl6IiwgImFpZCI6IDAsICJob3N0IjogImpwMDEuYTBhLnh5eiIsICJpZCI6ICIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NjdHYxMy5tM3U4IiwgInBvcnQiOiA4MCwgInBzIjogIkphcFx1MDBlM28iLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAianAwMS5hMGEueHl6In0=
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

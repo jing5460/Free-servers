@@ -32,10 +32,29 @@
  <blockquote>
  <p style="text-align: center;">먹기 -> 잠자기 -> 테스트 노드. </p>
  </blockquote>
- <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
+ <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-
+# 1802. >>@oneclickvpnkeys::XX (延迟: 1614 ms)
+# 1525. >>@oneclickvpnkeys::NL (延迟: 1264 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.16:38388#Vietnam
+trojan://8r%3C%5B9%27l6hAO%238ZQi@142.91.108.54:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#United+States
+# 1851. B - 🇯🇵 JP 16 TG: @nodpai (延迟: 2028 ms)
+# 1763. 🇫🇮[www.v2cross.com] ss-FI (延迟: 1504 ms)
+# 1648. @v2rayconfigamir 2912 (延迟: 1357 ms)
+# 239. >>@oneclickvpnkeys::US (延迟: 120 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.205:38388#Vietnam
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.27:38388#Vietnam
+# 1811. >>@oneclickvpnkeys::NL (延迟: 1670 ms)
+# 107. >>@oneclickvpnkeys::US (延迟: 91 ms)
+# 1244. 🇬🇧GB-82.38.31.217-0229 (延迟: 833 ms)
+# 1908. 🇹🇭[www.v2cross.com] Outline VPN-TH-11389833 (延迟: 5355 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#Germany
+# 1333. @v2rayngzendegimamad🕊️ (延迟: 987 ms)
+# 923. >>@v2ray_configs_pool::TH (延迟: 455 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.45:38388#Vietnam
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.161:38388#Vietnam
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

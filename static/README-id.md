@@ -32,10 +32,29 @@
  <blockquote>
  <p style="text-align: center;">Makan -> tidur -> node pengujian. </p>
  </blockquote>
- <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
+ <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-
+# 1607. 🫎80@oneclickvpnkeys (延迟: 1330 ms)
+# 1537. >>@oneclickvpnkeys::GB (延迟: 1269 ms)
+vless://2de34838-1270-4fb0-bbe5-dfc9aa5c01a1@5.180.54.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.160:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#United+States
+# 1690. >>@oneclickvpnkeys::GB (延迟: 1399 ms)
+vless://b818576e-951a-4a9c-879a-d32611b977ad@8.39.125.169:8443?allowInsecure=1&encryption=none&fp=chrome&host=cocobaby.pages.dev&path=%2F&security=tls&sni=cocobaby.pages.dev&type=ws#Malaysia
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram#United+States
+# 437. 🫎83@oneclickvpnkeys (延迟: 222 ms)
+vless://d555dac9-27cb-4ddb-89f5-6a1d8d1e4798@198.41.223.121:443?encryption=none&host=momi.timoreyhaneh.workers.dev&security=tls&sni=momi.timoreyhaneh.workers.dev&type=ws#
+# 1135. 🇹🇼[www.v2cross.com] V2Ray Vless-TW-383121 (延迟: 732 ms)
+# 1175. 🇬🇧GB_36 (延迟: 766 ms)
+# 33. >>@oneclickvpnkeys::US (延迟: 73 ms)
+# 1191. 🇷🇺RU_100 (延迟: 783 ms)
+# 1002. 🇰🇷KR-141.164.45.187-0338 (延迟: 529 ms)
+# 1419. B - 🇺🇸 US 40 TG: @nodpai (延迟: 1144 ms)
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#Brazil
+trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#
+# 112. B - 🇯🇵 JP 07 TG: @nodpai (延迟: 92 ms)
+# 1883. B - 🇸🇬 SG 05 TG: @nodpai (延迟: 3303 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@218.158.249.174:10000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#South+Korea
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

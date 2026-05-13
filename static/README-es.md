@@ -32,14 +32,29 @@
  <blockquote>
  <p style="text-align: center;">Comer -> dormir -> probar nodos. </p>
  </blockquote>
- <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
+ <h4>Lista de nodos: (Aquí se muestran como máximo 20 nodos. Los demás nodos gratuitos se obtienen en la app.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Letonia
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.3:10369?security=tls&sni=fra34.chasem2026sud.com#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#Reino+Unido
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAiYWRkIjogIjJhMTQ6NzU4NDpkMGEyOjphIiwgInBvcnQiOiAiMjM0NTYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImJkNDhlMGFjLWU5MGUtNDQ1MS1hNGYyLWFiZjA2MWNmYjg5MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWx2aW45OTk5LmNvbSIsICJob3N0IjogInd3dy5iaW5nLmNvbSIsICJ0bHMiOiAiIn0=
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.62:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Francia
+# 415. >>@oneclickvpnkeys::US (延迟: 207 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.127:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#Holanda
+# 416. JP VLESS-78 | free-nodes (延迟: 208 ms)
+# 517. @chillguy_vpn (延迟: 283 ms)
+vless://cc0c5ff2-00b5-4dcb-8811-076c637911c4@174.136.205.68:443?type=tcp&security=reality&sni=navi.bankrate.com&fp=random&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#Estados+Unidos
+# 906. 🇻🇳VN-103.186.155.125-4889 (延迟: 446 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:443?encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#Singapur
+trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#Estados+Unidos
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.180.2.141:5499#Bulgaria
+# 1843. 🍑16@oneclickvpnkeys (延迟: 1892 ms)
+# 526. 🏁ZZ_436 (延迟: 287 ms)
+# 1299. 🔑6@oneclickvpnkeys (延迟: 948 ms)
+# 24. >>@oneclickvpnkeys::US (延迟: 70 ms)
+# 961. 🇻🇳VN-103.186.155.113-4768 (延迟: 484 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.209:38388#Vietnam
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034686rw.cybervena.com:50099#Taiw%C3%A1n
+# 802. 🇻🇳VN-103.186.154.37-4951 (延迟: 390 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.56:38388#Vietnam
+# 1368. C - 🇭🇰 HK 22 TG: @nodpai (延迟: 1030 ms)
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
